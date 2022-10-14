@@ -1,6 +1,6 @@
-import logo from "./assets/logo.jpg";
-import emailIcon from "./assets/email-icon.png";
-import linkedinIcon from "./assets/linkedin-icon.png";
+import logo from 'assets/logo.jpg';
+import emailIcon from 'assets/email-icon.png';
+import linkedinIcon from 'assets/linkedin-icon.png';
 
 function Info() {
   return (
