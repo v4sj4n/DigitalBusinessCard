@@ -126,3 +126,15 @@ body {
   line-height: 150%;
   margin-top: 5px;
 }
+
+#contact-div{
+  background-color: #161619;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#contact-div div a img{
+  margin: 10px;
+  margin-top: 20px;
+}
